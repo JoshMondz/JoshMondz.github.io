@@ -1,12 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: this page is about me
 ---
 
-<div style="text-align:center">
-  <img src="assets/img/JoshM.png" width="282" height="346">
-</div>
+![](assets/img/JoshM.png){: .mx-auto.d-block :}
 
 ### Who am I?
 
@@ -31,12 +28,8 @@ I was born in Chicago, Illinois on March 28, 2003. From there my family and I ha
 - I have two different colored eyes with one being green and another being brown.
 
 - I lived in China when I was younger and that is where my family adopted my little brother.
-  
-  
-  
-<div style="text-align:center">
-  <img src="assets/img/Minnie.png" width="407" height="305">
-</div>
+
+![](assets/img/Minnie.png){: .mx-auto.d-block :}
 
 (Heres a bonus pic of my dog Minnie)
 

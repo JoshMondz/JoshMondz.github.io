@@ -29,8 +29,8 @@ p + theme_base()
 
 Here is the outcome of the linear model:
 
-![](LinearModel.png)
+![Linear Model](assets/img/LinearModel.png)
 
 And Here is the outcome of the graph:
 
-![](Plot.png)
+![Plot](assets/img/Plot.png)

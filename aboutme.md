@@ -4,10 +4,6 @@ title: About me
 subtitle: this page is about me
 ---
 
-<div style="text-align:center">
-  <img src="assets/img/JoshM.png" width="282" height="346">
-</div>
-
 # **Who am I?**
 
 My name is Josh Mondzelewski. I am a current student at Middlebury College studying Neuroscience. My plan is to go to med school after college and I hope to persue a career in psychiatry. I have three sibilings. My older sister is 23 and is currently an officer of the Navy stationed out in San Diego. My younger brother is 16 and just learned how to drive. My younger sister is 11 and currently swims and plays softball. 
@@ -34,9 +30,7 @@ I was born in Chicago, Illinois on March 28, 2003. From there my family and I ha
   
   
   
-<div style="text-align:center">
-  <img src="assets/img/Minnie.png" width="407" height="305">
-</div>
+
 
 (Heres a bonus pic of my dog Minnie)
 

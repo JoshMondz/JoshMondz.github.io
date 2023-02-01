@@ -3,9 +3,10 @@ layout: post
 title: What I've learned about making websites
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [test]
 readtime: true
 ---
+This is an example of a simple blog post about any topic. In it I've included a title picture as well as a few other things.
 
 This assignment has taught me a good bit about markdown and Jekyll and how they do not always agree with each other. So below I am going to list a few tips that I caught onto that should make creating a website easier.
 

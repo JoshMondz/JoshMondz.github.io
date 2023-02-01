@@ -22,7 +22,7 @@ author: Josh Mondzelewski
 navbar-links:
   About Me: "aboutme"
   Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - BIOL1007A Portfolio: "https://JoshMondz.github.io/BIOL1007A"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
@@ -128,7 +128,7 @@ navbar-var-length: false
 navbar-col: "#A4C0E0"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#AAFFFF"
+page-col: "#ABCDEF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"

@@ -1,0 +1,22 @@
+---
+title: "Sample"
+author: "Josh Mondzelewski"
+date: "2023-02-01"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(ggthemes)
+irisData <- iris
+newIrisData <- irisData %>%
+  summarise(Sepal.Length, Sepal.Width, Species)
+
+linearModel <- lm(Sepal.Length ~ Sepal.Width,data = newIrisData)
+summary(linearModel)
+
+p <- ggplot(data = newIrisData, aes(x = Sepal.Width, y = Sepal.Length, color = Species)) + 
+  geom_point(size = 2) + 
+  stat_smooth(method = "lm")
+p + theme_base()
+```
+

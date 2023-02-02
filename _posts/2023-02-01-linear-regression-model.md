@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Linear Regression Model
-subtitle: An example linear regression model example
+subtitle: An example linear regression model
 gh-repo: JoshMondz/JoshMondz.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
